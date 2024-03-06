@@ -8,7 +8,7 @@ This Python project implements a simple console-based Tic Tac Toe game using the
 
 ## Authors
 
-- [@octokatherine](https://www.github.com/Jinendra-Gambhir)
+- [@Jinendra-Gambhir](https://www.github.com/Jinendra-Gambhir)
 
 ## Color Reference
 
@@ -46,7 +46,7 @@ verifying Tkinter installation
 ```
 ## Features
 
-- LTwo-player mode
+- Two-player mode
 - Winning condition detection
 - Restart option
 ## Feedback
